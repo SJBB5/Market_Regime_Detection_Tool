@@ -1,0 +1,7 @@
+pyproject.toml
+src/market_regime_detection_tool.egg-info/PKG-INFO
+src/market_regime_detection_tool.egg-info/SOURCES.txt
+src/market_regime_detection_tool.egg-info/dependency_links.txt
+src/market_regime_detection_tool.egg-info/top_level.txt
+src/my_lib/__init__.py
+src/my_lib/funcs.py
